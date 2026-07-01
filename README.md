@@ -45,13 +45,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,linux,mysql"/>
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,playwrite,sklearn"/>
 </p>
 
 ### Computer Vision & Tools
@@ -64,7 +64,7 @@
 
 # 🚀 Current Projects
 
-🔹 AI Chatbot Development
+🔹 Navix personal AI Development
 🔹 Computer Vision Applications
 🔹 Deep Learning Models
 🔹 NLP + LLM Based Systems
