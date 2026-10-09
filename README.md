@@ -45,7 +45,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,linux,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,linux,debian"/>
 </p>
 
 ### AI / ML
@@ -54,10 +54,22 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,playwrite,sklearn"/>
 </p>
 
-### Computer Vision & Tools
+### ML, Dl, LLM, Computer Vision & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=opencv,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow,docker,selenium,postman,git,github,vscode"/>
+</p>
+
+### Web Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,"/>
+</p>
+
+### DataBase
+
+<p>
+<img src="https://skillicon.dev/icons?i=mysql"/>
 </p>
 
 ---
