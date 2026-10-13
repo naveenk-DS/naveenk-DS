@@ -18,23 +18,12 @@
 <!-- ===================== ABOUT (TERMINAL STYLE) ===================== -->
 ## 🖥️ `whoami`
 
-```python
-class Naveen:
-    name      = "Naveen K"
-    role      = "AI / ML Engineer (in the making 😎)"
-    location  = "Tamil Nadu, India 🇮🇳"
-    focus     = ["Computer Vision", "NLP", "LLMs", "Deep Learning", "LLMOps"]
-    stack     = ["Python", "OpenCV", "PyTorch", "TensorFlow", "FastAPI"]
-    learning  = ["DSA", "System Design", "Research Papers"]
-    building  = "Navix — my personal AI 🤖"
-    goal      = "Become a world-class AI/ML Engineer"
-    motto     = "Build. Learn. Improve. Repeat."
-
-    def status(self):
-        return "Coding... Debugging... Winning 🔥"
-```
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naveenk-DS/naveenk-DS/main/github-metrics.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/naveenk-DS/naveenk-DS/main/assets/terminal.svg" width="100%" alt="terminal"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/naveenk-DS/naveenk-DS/main/github-metrics.svg" width="100%" alt="GitHub metrics"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -54,6 +43,11 @@ class Naveen:
 
 <!-- ===================== TECH STACK ===================== -->
 ## ⚡ Tech Arsenal
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/naveenk-DS/naveenk-DS/main/assets/skills.svg" width="100%" alt="skills"/>
+</div>
+
 
 <div align="center">
 
