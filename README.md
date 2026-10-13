@@ -33,6 +33,9 @@ class Naveen:
     def status(self):
         return "Coding... Debugging... Winning 🔥"
 ```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/naveenk-DS/naveenk-DS/main/github-metrics.svg" width="100%"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
