@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # daily at midnight UTC
-  workflow_dispatch:        # manual run button
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -22,32 +22,27 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
 
-          # Contribution calendar (3D isometric)
+          # Wide two-column layout (like the sample you liked)
+          config_display: large
+          config_timezone: Asia/Kolkata
+
+          # 3D contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Most used languages
+          # Languages (hide notebooks so Python/others show properly)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          plugin_languages_ignored: jupyter notebook, html, css
 
-          # Commit activity per hour / per day
+          # Commit habits (smaller sample to avoid the API error)
           plugin_habits: yes
           plugin_habits_charts: true
           plugin_habits_days: 14
-          plugin_habits_from: 200
+          plugin_habits_from: 100
 
           # Lines added / removed
           plugin_lines: yes
           plugin_lines_history_limit: 1
-
-          # Stargazers
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-
-          # Mastered technologies and topics
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
